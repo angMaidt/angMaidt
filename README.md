@@ -14,7 +14,7 @@ Software Engineer 💻 | Digital Artist 🖌️ | Outdoors Enthusiast ⛰️
 
 <div align="center" width="100%">
 
-<img width="16%" src="https://komarev.com/ghpvc/?username=angMaidt&style=flat-square">
+<img width="17%" src="https://komarev.com/ghpvc/?username=angMaidt&style=flat-square">
 
 <a href="https://www.linkedin.com/in/angie-maidt/">
 <img width="13%" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/angie-maidt/">
