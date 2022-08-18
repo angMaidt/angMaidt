@@ -12,7 +12,9 @@ Full-Stack Software Engineer 💻 | Animator ✏️ | Outdoors Enthusiast ⛰️
 <br/>
 
 <div align="center" width="100%">
-<img width="12%" src="https://visitor-badge.glitch.me/badge?page_id=angMaidt.visitor-badge">
+
+<img width="16%" src="https://komarev.com/ghpvc/?username=angMaidt&style=flat-square">
+
 <a href="https://www.linkedin.com/in/angie-maidt/">
 <img width="13%" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/angie-maidt/">
 </a>
