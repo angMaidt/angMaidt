@@ -1,12 +1,13 @@
 <p align="center" width="100%">
     <img width="50%" src="https://user-images.githubusercontent.com/100968885/185471847-99273a69-f359-40ce-8e24-6d283da98745.gif">
 </p>
+
 <h3 align="center" width="100%">
 Hey there, I'm Angie!
 </h3>
 
 <h3 align="center" width="100%">
-Full-Stack Software Engineer 💻 | Animator ✏️ | Outdoors Enthusiast ⛰️
+Software Engineer 💻 | Digital Artist 🖌️ | Outdoors Enthusiast ⛰️
 </h3>
 
 <br/>
