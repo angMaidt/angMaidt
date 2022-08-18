@@ -1,9 +1,9 @@
 <p align="center" width="100%">
-    <img width="100%" src="https://user-images.githubusercontent.com/100968885/185471847-99273a69-f359-40ce-8e24-6d283da98745.gif">
+    <img width="50%" src="https://user-images.githubusercontent.com/100968885/185471847-99273a69-f359-40ce-8e24-6d283da98745.gif">
 </p>
-<h2 align="center" width="100%">
+<h3 align="center" width="100%">
 Hey there, I'm Angie!
-</h2>
+</h3>
 
 <h3 align="center" width="100%">
 Full-Stack Software Engineer 💻 | Animator ✏️ | Outdoors Enthusiast ⛰️
@@ -16,6 +16,9 @@ Full-Stack Software Engineer 💻 | Animator ✏️ | Outdoors Enthusiast ⛰️
 <a href="https://www.linkedin.com/in/angie-maidt/">
 <img width="13%" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/angie-maidt/">
 </a>
+</div>
+
+
 
 -------------------------------------------------------------------------------------------------------------------
 
